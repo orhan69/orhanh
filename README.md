@@ -1,2 +1,3 @@
 # orhanh
 <body bgcolor=?>
+<div style="text-align: center;"><a href="http://html-kodlar-merkez.tr.gg" _fcksavedurl="http://html-kodlar-merkez.tr.gg" target="_blank" title="Html Kodlar Merkez Hrml Kodların Merkezi"><span style="font-size: small;">Html-Kodlar-Merkez<br /> </span></a><span style="font-size: small;"> </span></div> <div align="center"><embed height="416" width="550" name="crazy_boxes_urgames " pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.gamesforyourwebsite.com/myspace/lovetester.swf" type="application/x-shockwave-flash" scale="ShowAll" loop="loop" menu="menu" wmode="Window" quality="best"></embed></div>
